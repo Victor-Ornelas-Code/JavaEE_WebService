@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/ornelas/CODE/Java-EE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2658583857.index
+/gerenciador/src
+/home/ornelas/CODE/Java-EE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1281062259.index
+/gerenciador/src

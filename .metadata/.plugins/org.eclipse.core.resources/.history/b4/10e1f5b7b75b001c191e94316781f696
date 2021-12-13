@@ -1,0 +1,20 @@
+package br.com.javaee.gerenciador.servlet;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet implementation class EmpresasService
+ */
+@WebServlet("/empresas")
+public class EmpresasService extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	/**
+	 * @see Servlet#destroy()
+	 */
+	public void destroy() {
+		// TODO Auto-generated method stub
+	}
+
+}

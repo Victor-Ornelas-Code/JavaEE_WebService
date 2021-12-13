@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/ornelas/CODE/Java-EE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2966281661.index
+1223573623.index
+754729427.index
+3480242849.index
+1641193038.index
+3958800138.index

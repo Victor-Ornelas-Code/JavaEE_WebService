@@ -1,0 +1,10 @@
+127.0.0.1 - - [13/Dec/2021:19:44:47 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:19:45:02 -0300] "GET /gerenciador/empresas HTTP/1.1" 200 263
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:19:45:09 -0300] "GET /gerenciador/empresas HTTP/1.1" 200 263
+127.0.0.1 - - [13/Dec/2021:19:56:06 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [13/Dec/2021:19:56:53 -0300] "POST /gerenciador/empresas HTTP/1.1" 500 1284
+127.0.0.1 - - [13/Dec/2021:19:59:00 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [13/Dec/2021:19:59:04 -0300] "POST /gerenciador/empresas HTTP/1.1" 200 134
+127.0.0.1 - - [13/Dec/2021:20:01:13 -0300] "POST /gerenciador/empresas HTTP/1.1" 500 1284
+127.0.0.1 - - [13/Dec/2021:20:01:29 -0300] "POST /gerenciador/empresas HTTP/1.1" 200 134
+127.0.0.1 - - [13/Dec/2021:20:01:38 -0300] "POST /gerenciador/empresas HTTP/1.1" 200 263
